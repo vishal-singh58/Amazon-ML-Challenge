@@ -29,3 +29,4 @@ Temporal and contextual features
 Predicted demand / relevance scores
 
 Model performance metrics (Accuracy, F1, RMSE, etc.)
+![WhatsApp Image 2026-01-13 at 10 37 39 PM](https://github.com/user-attachments/assets/05cb8d77-3a1a-4936-b6f3-3b252a50f062)
